@@ -1,0 +1,394 @@
+{
+  "95a40b91-a1d5-4772-9dbc-0b3e9a1aebc2": {
+    "id": "95a40b91-a1d5-4772-9dbc-0b3e9a1aebc2",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "a",
+    "idade": "a",
+    "experiencia": "a",
+    "disponibilidade": "a",
+    "statusAtual": "Reprovado",
+    "motivoStaff": "d",
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1489441687519494205",
+    "createdAt": "2026-04-03T01:49:31.265Z",
+    "updatedAt": "2026-04-03T01:49:53.487Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T01:49:31.265Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-03T01:49:31.765Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Em entrevista",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T01:49:42.777Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Revisão solicitada",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": "d",
+        "createdAt": "2026-04-03T01:49:48.099Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Reprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": "d",
+        "createdAt": "2026-04-03T01:49:53.487Z"
+      }
+    ]
+  },
+  "072ad665-e74b-4acb-a3d6-e6c0730b1d2f": {
+    "id": "072ad665-e74b-4acb-a3d6-e6c0730b1d2f",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "a",
+    "idade": "a",
+    "experiencia": "a",
+    "disponibilidade": "a",
+    "statusAtual": "Aprovado",
+    "motivoStaff": null,
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1489452548245946521",
+    "createdAt": "2026-04-03T02:32:40.653Z",
+    "updatedAt": "2026-04-03T02:33:26.995Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:32:40.653Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-03T02:32:40.911Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Em entrevista",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:33:07.890Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Revisão solicitada",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": "daw",
+        "createdAt": "2026-04-03T02:33:16.709Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Aprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:33:26.995Z"
+      }
+    ]
+  },
+  "27fe9053-3bc1-454a-be6e-4ba8607f769e": {
+    "id": "27fe9053-3bc1-454a-be6e-4ba8607f769e",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "dadw",
+    "idade": "aaa",
+    "experiencia": "dwa",
+    "disponibilidade": "dwa",
+    "statusAtual": "Em entrevista",
+    "motivoStaff": null,
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1489453931687055451",
+    "createdAt": "2026-04-03T02:38:10.410Z",
+    "updatedAt": "2026-04-03T02:38:29.288Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:38:10.410Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-03T02:38:10.742Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Em entrevista",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:38:29.288Z"
+      }
+    ]
+  },
+  "e1b9d06e-1b09-403e-be2f-d2888f0eeeca": {
+    "id": "e1b9d06e-1b09-403e-be2f-d2888f0eeeca",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "5",
+    "idade": "5",
+    "experiencia": "2",
+    "disponibilidade": "3",
+    "statusAtual": "Aprovado",
+    "motivoStaff": null,
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1489459373175472280",
+    "createdAt": "2026-04-03T02:59:47.819Z",
+    "updatedAt": "2026-04-03T02:59:59.272Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:59:47.819Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-03T02:59:48.107Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Aprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-03T02:59:59.272Z"
+      }
+    ]
+  },
+  "1bc91f83-4bf0-4fad-93ea-a2281afbbdab": {
+    "id": "1bc91f83-4bf0-4fad-93ea-a2281afbbdab",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "a",
+    "idade": "a",
+    "experiencia": "a",
+    "disponibilidade": "a",
+    "statusAtual": "Reprovado",
+    "motivoStaff": "adw",
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1490106048604934235",
+    "createdAt": "2026-04-04T21:49:26.697Z",
+    "updatedAt": "2026-04-04T21:49:32.592Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-04T21:49:26.697Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-04T21:49:26.927Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Reprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": "adw",
+        "createdAt": "2026-04-04T21:49:32.592Z"
+      }
+    ]
+  },
+  "f7bfe23e-2560-4eb4-bea7-af42432bfed7": {
+    "id": "f7bfe23e-2560-4eb4-bea7-af42432bfed7",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "a",
+    "idade": "a",
+    "experiencia": "a",
+    "disponibilidade": "a",
+    "statusAtual": "Aprovado",
+    "motivoStaff": null,
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1490164125991702598",
+    "createdAt": "2026-04-05T01:40:13.388Z",
+    "updatedAt": "2026-04-05T01:40:16.023Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T01:40:13.388Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-05T01:40:13.651Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Aprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T01:40:16.023Z"
+      }
+    ]
+  },
+  "9a48c3b7-6d00-4f00-9533-68aa2bcb8c08": {
+    "id": "9a48c3b7-6d00-4f00-9533-68aa2bcb8c08",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "m",
+    "idade": "m",
+    "experiencia": "m",
+    "disponibilidade": "m",
+    "statusAtual": "Aprovado",
+    "motivoStaff": null,
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1490171064649646090",
+    "createdAt": "2026-04-05T02:07:47.577Z",
+    "updatedAt": "2026-04-05T02:08:01.946Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T02:07:47.577Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-05T02:07:47.955Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Aprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T02:08:01.946Z"
+      }
+    ]
+  },
+  "090520a8-3dc0-4482-9aac-3ba560d84ac4": {
+    "id": "090520a8-3dc0-4482-9aac-3ba560d84ac4",
+    "guildId": "1488617577868693714",
+    "userId": "1349444095252365312",
+    "userTag": "filipe_oliveira001",
+    "nickJogo": "a",
+    "idade": "d",
+    "experiencia": "a",
+    "disponibilidade": "d",
+    "statusAtual": "Pendente",
+    "motivoStaff": "Candidatura reaberta por filipe_oliveira001.",
+    "reviewedById": "1349444095252365312",
+    "reviewedByTag": "filipe_oliveira001",
+    "staffChannelId": "1488617580179755028",
+    "staffMessageId": "1490176349057585335",
+    "createdAt": "2026-04-05T02:28:47.602Z",
+    "updatedAt": "2026-04-05T02:29:03.421Z",
+    "timeline": [
+      {
+        "type": "application_created",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T02:28:47.602Z"
+      },
+      {
+        "type": "staff_message_attached",
+        "status": "Pendente",
+        "actorId": null,
+        "actorTag": null,
+        "reason": null,
+        "createdAt": "2026-04-05T02:28:47.827Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Aprovado",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": null,
+        "createdAt": "2026-04-05T02:29:00.646Z"
+      },
+      {
+        "type": "status_changed",
+        "status": "Pendente",
+        "actorId": "1349444095252365312",
+        "actorTag": "filipe_oliveira001",
+        "reason": "Candidatura reaberta por filipe_oliveira001.",
+        "createdAt": "2026-04-05T02:29:03.421Z"
+      }
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-# bot-triagem-discord
+﻿# clan-command-core\n\nEstrutura criada automaticamente.
